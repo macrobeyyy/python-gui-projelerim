@@ -47,4 +47,4 @@
 - Son Birşey Bana Ulaşmak İsterseniz Aşağıda İnstagram Hesabımı Bırakacağım ⬇️
 - Şimdi Görüşmek Üzere Sağlıcakla Kalınnn!
 
-- <a href="https://instagram.com/macroooo.ala"><img src="https://img.shields.io/badge/@macrowashere-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
+- <a href="https://instagram.com/macro.devs"><img src="https://img.shields.io/badge/@macrowashere-E4405F?style=flat&logo=Instagram&logoColor=white"/></a> &nbsp;
